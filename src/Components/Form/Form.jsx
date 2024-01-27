@@ -22,6 +22,7 @@ const Form = () => {
     setJson(prevJson => ({
       ...prevJson,
       rules: [...prevJson.rules, newRule],
+      combinator
   }));
   }
 
