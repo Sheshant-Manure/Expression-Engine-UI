@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expression-Engine-UI/static/css/main.4c5e172e.css",
+    "main.js": "/Expression-Engine-UI/static/js/main.6c4cc6f0.js",
+    "index.html": "/Expression-Engine-UI/index.html",
+    "main.4c5e172e.css.map": "/Expression-Engine-UI/static/css/main.4c5e172e.css.map",
+    "main.6c4cc6f0.js.map": "/Expression-Engine-UI/static/js/main.6c4cc6f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5e172e.css",
+    "static/js/main.6c4cc6f0.js"
+  ]
+}
